@@ -1,0 +1,25 @@
+This file is the main file for the design of the project. This is used to demonstrate how to define classes, interfaces, variables
+and methods in the java language
+The foundation classes used in this projects are:
+Pokemon
+Player
+PokemonFactory
+PokemonStadium
+PokemonClinic
+
+The interfaces are:
+PokemonInterfaceFly
+PokemonInterfaceFire
+PokemonInterfaceSteel
+PokemonInterfaceRock
+PokemonInterfaceElectric
+PokemonInterfaceWater
+PokemonInterfaceGrass
+PokemonInterfacePoison
+
+The above interfaces have their own methods defined but not implemented. They could also have variables predefined such as 
+weeknessOpponentTypes
+
+
+Rules:
+The player start the game with zero pokemon. 
