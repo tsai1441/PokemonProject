@@ -20,7 +20,21 @@ PokemonInterfacePoison
 The above interfaces have their own methods defined but not implemented. They could also have variables predefined such as 
 weeknessOpponentTypes
 
+We need to design the main screen
+maybe a screen with game stat for the player
 
+action:
+  roll the wheel of fortune  
+  repair damaged pokemon
+
+
+Wheel of Fortune:
+  numerous possible outcome of the wheels:
+  such as:
+  found a wild pokemon
+  receive 10 poky balls
+  ...
+  
 Rules:
-The player start the game with zero pokemon. 
-The player is given a way to earn poke balls.
+The player starts the game with zero pokemon. 
+The player is given one poke ball every time he roll the dice
