@@ -8,17 +8,15 @@ PokemonStadium
 PokemonClinic
 
 The interfaces are:
-PokemonInterfaceFly
 PokemonInterfaceFire
-PokemonInterfaceSteel
-PokemonInterfaceRock
-PokemonInterfaceElectric
 PokemonInterfaceWater
 PokemonInterfaceGrass
-PokemonInterfacePoison
 
 The above interfaces have their own methods defined but not implemented. They could also have variables predefined such as 
-weeknessOpponentTypes
+weakerOpponentType 
+strongerOpponentTYpe
+ex. for a Fire type pokemon the weakerOpponentType will be Grass while the strongerOpponentType will be Water
+so when a fire type attack a grass type the effect is doubled and if a fire type attack a water ktype the effect is halfed.
 
 We need to design the main screen
 maybe a screen with game stat for the player
@@ -38,3 +36,6 @@ Wheel of Fortune:
 Rules:
 The player starts the game with zero pokemon. 
 The player is given one poke ball every time he roll the dice
+
+Program flow:
+
